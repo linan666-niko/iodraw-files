@@ -4,6 +4,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-1" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=24.315791079872533;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="143" height="228.31579107987253" as="geometry" />
+        </mxCell>
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-2" value="UserID PK" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QaXKN1N3gUUHfgouCNDK-1">
+          <mxGeometry y="24.315791079872533" width="143" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-3" value="Username" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QaXKN1N3gUUHfgouCNDK-1">
+          <mxGeometry y="48.31579107987253" width="143" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-4" value="Email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QaXKN1N3gUUHfgouCNDK-1">
+          <mxGeometry y="72.31579107987253" width="143" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-5" value="PasswordHash" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QaXKN1N3gUUHfgouCNDK-1">
+          <mxGeometry y="96.31579107987253" width="143" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-6" value="PhoneNumber" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QaXKN1N3gUUHfgouCNDK-1">
+          <mxGeometry y="120.31579107987253" width="143" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-7" value="ShippingAddress" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QaXKN1N3gUUHfgouCNDK-1">
+          <mxGeometry y="144.31579107987253" width="143" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-8" value="IsAdmin BOOLEAN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QaXKN1N3gUUHfgouCNDK-1">
+          <mxGeometry y="168.31579107987253" width="143" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-9" value="RegistrationTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="QaXKN1N3gUUHfgouCNDK-1">
+          <mxGeometry y="192.31579107987253" width="143" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QaXKN1N3gUUHfgouCNDK-10" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="QaXKN1N3gUUHfgouCNDK-1">
+          <mxGeometry y="216.31579107987253" width="143" height="12" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
